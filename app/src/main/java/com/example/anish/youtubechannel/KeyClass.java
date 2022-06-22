@@ -9,4 +9,5 @@ public class KeyClass
     }
 
     public static final String KEY = "AIzaSyAKY_5SRDhyy0CiYCwdIASimezW0CNt2HA";
+    //please add it in secured file
 }
