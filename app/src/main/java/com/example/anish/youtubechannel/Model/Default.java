@@ -26,7 +26,7 @@ public class Default {
     public String getUrl() {
         return url;
     }
-
+// remove this comment
     /**
      * 
      * @param url
@@ -71,5 +71,5 @@ public class Default {
     public void setHeight(Integer height) {
         this.height = height;
     }
-
+// remove this comment
 }
