@@ -43,7 +43,7 @@ public class YouTubeRecylerAdapter extends RecyclerView.Adapter<YouTubeRecylerAd
         View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.youtuberow, parent, false);
         return new VideoInfoHolder(itemView);
     }
-
+// remove this comment
     @Override
     public void onBindViewHolder(final VideoInfoHolder holder, int position)
     {
